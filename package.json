@@ -1,0 +1,17 @@
+{
+  "name": "al-dente-studio",
+  "version": "1.0.1",
+  "private": true,
+  "workspaces": [
+    "website/*"
+  ],
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "link": "turbo run lint",
+    "test": "turbo run test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "readme": "ERROR: No README data found!"
+}
